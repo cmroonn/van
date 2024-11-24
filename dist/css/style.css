@@ -5067,6 +5067,10 @@ button a {
   padding: calc(6 / var(--screensize) * 100vw) calc(5 / var(--screensize) * 100vw);
 }
 
+.btn-outline a {
+  color: #fff;
+}
+
 .btn-filled {
   font-size: calc(12 / var(--screensize) * 100vw);
   font-weight: 500;
